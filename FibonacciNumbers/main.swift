@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 // This function calculates the ffibonacci sequence till 1000 and prints out.
 func fibonacciSequence(_ n: Int) -> () {
     
